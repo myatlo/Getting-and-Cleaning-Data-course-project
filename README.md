@@ -6,7 +6,7 @@ For script torun correctly all input files should be placed in the same director
 
 #Files list:
 
-Project.R - script file (containing all 5 steps)
+run_analysis.R - script file (containing all 5 steps)
 
 Codebook.md - describes the variables and all the work done on data.
 

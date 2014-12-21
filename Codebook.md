@@ -1,6 +1,6 @@
 ## Introduction
 
-Description of Project.R file containing scripts for doing steps prescribed by project instructions.
+Description of run_analysis.R file containing scripts for doing steps prescribed by project instructions.
 
 STEP 1 
 Firstly we read train and test data (6 files).
